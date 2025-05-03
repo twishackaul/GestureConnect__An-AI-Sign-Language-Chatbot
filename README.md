@@ -1,1 +1,1 @@
-# GestureConnect-A_Sign_Languege_Chatbot
+# GestureConnect-A Sign Languege Chatbot
