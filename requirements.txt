@@ -1,0 +1,7 @@
+pip install tensorflow :: pip install tensorflow==2.15.0 --force-reinstall
+pip install -U langchain-community
+pip install pypdf
+cmake --version (if not installed, install cmake from https://cmake.org/download/)
+python -m pip install --upgrade pip setuptools
+git --version (if not installed, install git from https://git-scm.com/downloads)
+pip install llama-cpp-python
