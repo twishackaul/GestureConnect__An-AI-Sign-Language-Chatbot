@@ -1,1 +1,1 @@
-# GestureConnect - A Sign Languege Chatbot
+# GestureConnect - A Sign Language Chatbot
